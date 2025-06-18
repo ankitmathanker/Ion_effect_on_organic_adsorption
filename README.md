@@ -1,4 +1,4 @@
-# Ion_effect_on_organic_adsorption
+# Effect of Ions on the Aqueous-Phase Adsorption of Small Aromatic Organics on Silver
 <br>
 Author: Ankit Mathanker
 <br>
