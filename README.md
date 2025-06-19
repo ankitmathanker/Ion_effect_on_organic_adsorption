@@ -10,8 +10,8 @@ This repository contains sample calculations for our manuscript titled: **" Effe
 ### 1. [ITP_files](./itp_files/)
 This folder contains .itp files (molecular topology) for different organics used in the study.
 
-### 2. [Adsorption](./adsorption.7z/)
-The zip file consists of a sample calculation set-up for adsorption study performed in this work. It consists of four sub-folder namely **analysis**, **MDP**, **PMF**, and **System**.
+### 2. [Adsorption](./adsorption_sample.tar.xz)
+The tar file consists of a sample calculation set-up for adsorption study performed in this work. It consists of four sub-folder namely **analysis**, **MDP**, **PMF**, **System**, and **UMs**.
 
 - **System** folder contains following files:
   - sys#.gro files where # can be anything from 1 to 16. Each of these sys#.gro file consist of system structure with phenol at a distance away from the surface.
